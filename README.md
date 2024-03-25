@@ -3,10 +3,14 @@
 #### ⭐️ Full Stack Developer apprentice at techForGood
 #### ⭐️ 3rd-year SE undergraduate at SLIIT
 
+<div align="left">
+	
 I'm a passionate developer (still learning😛) who loves building applications that make a difference. 
 I'm interested in web and andriod development.❤️ <br>
-When I'm not coding, you can find me watching TV shows or surfing facebook.😊 <br>
+When I'm not coding, you can find me watching TV shows or surfing facebook.😊 <br><br>
 [🔗Click here & Connect with me through LinkedIn](https://www.linkedin.com/in/jeewantha-de-silva)
+	
+</div>
 
 ## Learning | Coding
 <br>
