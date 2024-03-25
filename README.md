@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IT21228612)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IT21228612&theme=github-dark-dimmed&border_radius=10.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **IT21228612/IT21228612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
