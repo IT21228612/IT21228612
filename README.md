@@ -1,7 +1,8 @@
 # Hi there, I'm Jeewantha 👦👋
 
-#### ⭐️ Full Stack Developer apprentice at techForGood
-#### ⭐️ 3rd-year SE undergraduate at SLIIT
+#### ⭐️ Software Engineer Intern at Business Insource Lanka / Aqua Packaging / dkw-Aqua International / Flex Film International
+#### ⭐️ Former Full Stack Developer apprentice at techForGood
+#### ⭐️ 4th-year SE undergraduate at SLIIT
 
 <div align="left">
 	
