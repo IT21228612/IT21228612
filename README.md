@@ -1,6 +1,6 @@
 # Hi there, I'm Jeewantha 👦👋
 
-#### * Software Engineer Intern at Aqua Group (Business Insource Lanka / Aqua Packaging / dkw-Aqua International / Flex Film International)
+#### * Junior Software Engineer at Aqua Group (Business Insource Lanka / Aqua Packaging / dkw-Aqua International / Flex Film International)
 #### * Former Full Stack Developer apprentice at techForGood
 #### * 4th-year SE undergraduate at SLIIT
 
